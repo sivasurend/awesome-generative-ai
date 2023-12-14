@@ -163,6 +163,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+- [Lyzr](https://www.lyzr.ai/) - Powerful low-code Enterprise SDKs for building Chatbots, Automated Helpdesk, Knowledge Base, Data Analysis and many more Enterprise Generative AI apps.
 
 ## Agents
 
@@ -216,6 +217,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ideogram](https://ideogram.ai/) - A text-to-image platform to make creative expression more accessible.
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
+- [GoML] (https://goml.io/) - A Generative AI application development studio helping startups and enterprise companies build custom GenAI or LLM applications.
 
 ### Graphic design
 
@@ -291,6 +293,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- [TheYCBot] (https://theYCbot.com/) - Trained on multiple YCombinator Startup School Videos, TheYCBot provides intelligent suggestions to startup related questions.
 
 ## Learning resources
 
